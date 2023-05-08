@@ -23,12 +23,24 @@ To get started with the Hive Notes App, follow these instructions:
 ### Installation ⚙️
 
 1. Clone the repository: 
+
         https://github.com/Ganeshshinde-2003/Flutter-Notes-Taking-App-Using-Hive-DataBase.git
         
 
 2. Install dependencies:
+
         flutter pub get
         
 
 3. Run the app:
+
         flutter run
+
+### Usage 📱
+
+- Launch the Hive Notes App on your device or emulator.
+- The home screen will display a list of all the notes stored in the database.
+- To create a new note, tap on the floating action button (the "+" icon) at the bottom right corner of the screen. Enter the title and description for the note, and tap the green checkmark icon to save it.
+- To edit a note, tap on the edit icon (pencil) next to the note. Modify the title or description, and tap the green checkmark icon to save the changes.
+- To delete a note, tap on the delete icon (trash bin) next to the note.
+- The notes 
