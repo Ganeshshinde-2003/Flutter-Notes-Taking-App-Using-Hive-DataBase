@@ -23,4 +23,12 @@ To get started with the Hive Notes App, follow these instructions:
 ### Installation ⚙️
 
 1. Clone the repository: 
+        https://github.com/Ganeshshinde-2003/Flutter-Notes-Taking-App-Using-Hive-DataBase.git
         
+
+2. Install dependencies:
+        flutter pub get
+        
+
+3. Run the app:
+        flutter run
