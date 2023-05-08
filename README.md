@@ -43,4 +43,4 @@ To get started with the Hive Notes App, follow these instructions:
 - To create a new note, tap on the floating action button (the "+" icon) at the bottom right corner of the screen. Enter the title and description for the note, and tap the green checkmark icon to save it.
 - To edit a note, tap on the edit icon (pencil) next to the note. Modify the title or description, and tap the green checkmark icon to save the changes.
 - To delete a note, tap on the delete icon (trash bin) next to the note.
-- The notes 
+- The notes are displayed in reverse order, with the latest note appearing at the top of the list.
