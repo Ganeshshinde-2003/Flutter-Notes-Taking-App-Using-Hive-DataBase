@@ -10,6 +10,17 @@ Hive Notes App is a simple note-taking application built using Flutter framework
 - 🗑️ Delete a note from the list
 - 💾 Store notes locally using Hive database
 
+## Screenshots 📷
+
+Here are some screenshots from the Hive Notes App:
+
+![b5db7444-3142-4c3c-96b4-5e53b5e09873](https://user-images.githubusercontent.com/115361691/236887844-becb27c7-15e0-415c-bada-35dc0f6afd91.jpg)
+
+![c021cd4e-33cc-44bf-8bfc-e6d9d6d92d83](https://user-images.githubusercontent.com/115361691/236887834-b560579d-b3c7-4e66-ab4d-27cf2588c2b7.jpg)
+
+![c380fc9d-c28a-439e-b35e-7d3d40a0f64c](https://user-images.githubusercontent.com/115361691/236887816-a485f46d-4d34-4847-92bb-c0d8b2e9e21f.jpg)
+
+
 ## Getting Started 🚀
 
 To get started with the Hive Notes App, follow these instructions:
